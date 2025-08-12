@@ -1,0 +1,89 @@
+{
+    "user_input": {
+        "mcq_answers": {
+            "Q1": {
+                "answer": "Rarely",
+                "score": 0
+            },
+            "Q2": {
+                "answer": "Sometimes",
+                "score": 1
+            },
+            "Q3": {
+                "answer": "Sometimes",
+                "score": 1
+            },
+            "Q4": {
+                "answer": "Rarely",
+                "score": 0
+            },
+            "Q5": {
+                "answer": "Rarely",
+                "score": 0
+            },
+            "Q6": {
+                "answer": "Often",
+                "score": 2
+            },
+            "Q7": {
+                "answer": "Rarely",
+                "score": 0
+            },
+            "Q8": {
+                "answer": "Sometimes",
+                "score": 1
+            },
+            "Q9": {
+                "answer": "Sometimes",
+                "score": 1
+            },
+            "Q10": {
+                "answer": "Almost Always",
+                "score": 3
+            }
+        },
+        "descriptive_answers": {
+            "challenge": "Maintaining the samw routine for every week.",
+            "focus_time": "In the afternoon"
+        }
+    },
+    "system_output": {
+        "mcq_score": 9,
+        "profile": "Focused Achiever",
+        "nlp_analysis": {
+            "all_tags": [],
+            "all_keywords": [
+                "maintaining",
+                "samw",
+                "routine",
+                "every",
+                "week"
+            ],
+            "individual_analysis": {
+                "challenge": {
+                    "sentiment": "Neutral",
+                    "keywords": [
+                        "maintaining",
+                        "samw",
+                        "routine",
+                        "every",
+                        "week"
+                    ],
+                    "tags": []
+                },
+                "focus_time": {
+                    "sentiment": "Neutral",
+                    "keywords": [
+                        "afternoon"
+                    ],
+                    "tags": []
+                }
+            }
+        },
+        "summary": "Your results show you're in the 'Focused Achiever' category. You seem to have a good handle on your productivity habits.",
+        "recommendations": {
+            "Basic (Free)": [],
+            "Premium (Advanced)": []
+        }
+    }
+}
