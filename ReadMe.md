@@ -14,7 +14,7 @@ This project is a personalized productivity coach designed to assess a user's wo
 
 ## Project Structure
 
-/AI_NLP_Internship_Project
+AI_NLP_Internship_Project
 |-- app.py                   # The main file for the Streamlit chat interface
 |-- main.py                  # The script for the command-line version
 |-- mcq_module.py            # Handles all MCQ logic and scoring
@@ -74,4 +74,5 @@ This method runs the assessment in your terminal. Its main purpose is to generat
     
     python main.py
     
+
 3.  Answer all the questions in the terminal. When you are finished, a file named **`output_data.json`** will be created in your project folder
